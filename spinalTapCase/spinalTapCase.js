@@ -31,3 +31,5 @@ function spinalCase(str) {
 }
 
 spinalCase("This Is Spinal Tap");
+
+//48 mins
