@@ -37,3 +37,5 @@ function convertHTML(str) {
 
 //test here
 convertHTML("Dolce & Gabbana");
+
+//24.5 mins
