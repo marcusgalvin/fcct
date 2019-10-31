@@ -18,6 +18,7 @@ function translatePigLatin(str) {
 
   //.match is a regex method
   //look for anything that starts with 'vowel' and give me the first vowel
+  var check = 0;
   var vowel = str.match(/[aeiouy]/);
   // console.log(vowel)
 
