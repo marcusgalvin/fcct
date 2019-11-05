@@ -17,3 +17,5 @@ function dropElements(arr, func) {
 dropElements([1, 2, 3], function (n) {
   return n < 3;
 });
+
+//20.3 mins
