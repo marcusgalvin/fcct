@@ -1,0 +1,12 @@
+At first I looked into for in loops and noticed how they work great on objects
+I figured I could use the hasOwnProperty() func because that returns a boolean
+
+I read up on truthy and falsy values in Javascript
+-falsy values :  undefined , null , NaN , 0 , "" (empty string), and false 
+
+After playing around with the code I did some more research and noticed the every() function
+- .every() returns true or false
+
+every() works similar to filter(), whereas it takes on an anon function, loops through something, and returns a value- execpt it returns a true or false value
+
+this made for a much sleeker and elegant solution
