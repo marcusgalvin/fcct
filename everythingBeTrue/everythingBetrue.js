@@ -1,7 +1,3 @@
-//for in loops work great on objects
-//hasOwnProperty returns a boolean
-//falsy values :  undefined , null , NaN , 0 , "" (empty string), and false 
-//.every() returns true or false
 
 function truthCheck(collection, pre) {
   //every() returns true or false depending on the function it takes
